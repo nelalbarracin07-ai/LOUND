@@ -1,0 +1,6 @@
+{
+  "name": "LOUND - Lost. Found. Reunited.",
+  "description": "Lost-and-found social marketplace to recover missing belongings and animals, earn recovery rewards, chat securely, and swap items in a minimalist monochrome design.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
